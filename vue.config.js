@@ -1,5 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-      ? '/DataViz-Dashboard/'
-      : '/'
-}
+  publicPath: "/StackOverflow2020Viz",
+  outputDir: "docs"
+};
